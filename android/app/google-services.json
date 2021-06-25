@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614575155048",
+    "firebase_url": "https://fragchat.firebaseio.com",
+    "project_id": "fragchat",
+    "storage_bucket": "fragchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614575155048:android:8c5ef12fc682a6de21d8dd",
+        "android_client_info": {
+          "package_name": "com.frag.fragchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614575155048-rdqnk5tif152sbsi81a7o4mm20nam711.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frag.fragchat",
+            "certificate_hash": "de035dd14d7f4d03d1f85070ccb7e49a6858f655"
+          }
+        },
+        {
+          "client_id": "614575155048-t1dndngvbt8r971arvki1d695oiltec3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uq75S1bCQRc6lGWyt-eMGyMkrvkmq2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614575155048-t1dndngvbt8r971arvki1d695oiltec3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
